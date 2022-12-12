@@ -17,7 +17,7 @@ I've cooperated with *SLD studio* (book layout, charity project for WWF, product
 
 ## Skills
 * HTML/CSS (basic level)
-* GitHub
+* GitHub (basic level)
 * JavaScript (basic level)
 * Figma
 * Adobe Photoshop / Illustrator / Dimension
